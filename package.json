@@ -6,6 +6,6 @@
     "fs": "^0.0.1-security"
   },
   "scripts": {
-    "start": "node server.js # default start -> server.js"
+    "start": "node server.js # default server.js"
   }
 }
